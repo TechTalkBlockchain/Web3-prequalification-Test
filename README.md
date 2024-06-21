@@ -1,3 +1,9 @@
+# Network Issue to Run React/NextJs Framework
+Dear, Sir/Ma.
+
+I am writing to report of a glitch I had with my network I was having internet Issues thereby restricting to write Vanila Javascript under (https://github.com/TechTalkBlockchain/Web3-prequalification-Test)
+
+
 # Real-Time Search with Highlighting
 
 Implementation of a real-time search feature that highlights matching text as the user types.
